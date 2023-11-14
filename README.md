@@ -2,18 +2,16 @@
 
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 
-<p align="center" >🚀 Software Development Enthusiast 🚀 </p>
+<h1 align="center">🚀 Software Development Enthusiast 🚀 </h1>
 
 
 <p> Hello, world! 👋 I'm Devanshu Pandey, a passionate explorer in the vast realm of software development. 🌐💻 Currently pursuing my B.Tech in Electronics and Communication Engineering </p>
 
-<img align="center" width="600" src="https://miro.medium.com/v2/resize:fit:720/1*1ojV4epPGRxhZE26dVI4pQ.gif"/>
 
-<br>
- 👨‍💻 Currently honing my skills in various programming languages and frameworks, I'm excited about the endless possibilities that lie ahead. My goal is not just to code but to craft solutions that resonate and solve real-world problems.
+<p>👨‍💻 Currently honing my skills in various programming languages and frameworks, I'm excited about the endless possibilities that lie ahead. My goal is not just to code but to craft solutions that resonate and solve real-world problems.</p>
 
-<br/>
- 🌟 Looking to build a career that merges my passion for technology with my eagerness to contribute to the ever-evolving landscape of software development. Join me on this journey of continuous learning, innovation, and the pursuit of excellence! Let's code the future together! 💻🚀
+<p>🌟 Looking to build a career that merges my passion for technology with my eagerness to contribute to the ever-evolving landscape of software development. Join me on this journey of continuous learning, innovation, and the pursuit of excellence! Let's code the future together! 💻🚀</p>
+
 
 - 🔭 I’m currently working on **some React projects**
 
@@ -27,8 +25,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
