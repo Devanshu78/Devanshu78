@@ -2,10 +2,10 @@
 
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 
-<h1 align="center" >🚀 Software Development Enthusiast 🚀 </h1>
+<p align="center" >🚀 Software Development Enthusiast 🚀 </p>
 
 
-<h3>Hello, world! 👋 I'm Devanshu Pandey, a passionate explorer in the vast realm of software development. 🌐💻 Currently pursuing my B.Tech in Electronics and Communication Engineering </h3>
+<p> Hello, world! 👋 I'm Devanshu Pandey, a passionate explorer in the vast realm of software development. 🌐💻 Currently pursuing my B.Tech in Electronics and Communication Engineering </p>
 
 <img align="center" width="600" src="https://miro.medium.com/v2/resize:fit:720/1*1ojV4epPGRxhZE26dVI4pQ.gif"/>
 
